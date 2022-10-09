@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm wafa</h1>
-<h3 align="center">A fresh frontend developer from palestine</h3>
+<h3 align="center"> Frontend Developer From Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wafa200099&label=Profile%20views&color=0e75b6&style=flat" alt="wafa200099" /> </p>
 
