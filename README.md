@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wafa200099" alt="wafa200099" /></a> </p>
 
-- 🌱 I’m currently learning **flask,python**
+- 🌱 I’m currently learning **javascript,react**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wafa200099](https://github.com/wafa200099)
 
